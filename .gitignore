@@ -1,0 +1,15 @@
+# Binaries
+Day*/Part1
+Day*/Part2
+*.out
+a.out
+
+# Input files
+Day*/input.txt
+
+# OS / Editor
+.DS_Store
+*.swp
+*~
+.vscode/
+.clangd/
